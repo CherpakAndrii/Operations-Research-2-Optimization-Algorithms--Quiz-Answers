@@ -10,9 +10,6 @@
 
 # Week 1
 
-***Special note***: 
-`Below there are five questions for you to answer. Naturally there are many mathematical formulas and equations in the problem statements. However, due to some technical issues on Coursera, from time to time for some learners, some formulas and equations cannot be displayed correctly (while some others can). As there is no way for the instructing team to solve this issue, we post all the problem statements in a PDF file here. If unfortunately some formulas and equations are not readable for you, please use the PDF file to prepare your answers and then come back to Coursera to choose/fill in your answers.`
-
 ### Question 1: Among the following terms, which is not going to be introduced in this course?
 * Advanced solvers.
 * Exact algorithms.
@@ -60,3 +57,61 @@ z=[1, −1, 2]
 * A square matrix is nonsingular if and only if it is invertible.
 * If we have m n-dimensional vectors, they must be linearly dependent if m > n.
 
+# Week 2
+
+### Question 1: Consider the following LP:
+```
+max 5*x1 + 3*x2
+x1 + x2 <= 16
+x1 + 4*x2 <= 20
+x2 <= 8
+x1 >= 0, x2 >= 0
+```
+#### If we find its standard form, what will be the first functional constraint look like?
+* x1 + x2 + x3 <= 16
+* ***x1 + x2 + x3 = 16***
+* x1 + x2 - x3 >= 16
+* x1 + x2 - x3 = 16
+
+### Question 2: Following from the previous problem, we may list all the basic solutions of the standard form. For this example, there should be A basic variables and B nonbasic variables in each basic solution. There are C basic solutions and D basic feasible solutions.
+* A=3, B=2, C=10, and D=4.
+* A = 2A=2, B = 3B=3, C = 10C=10, and D = 4D=4.
+* A = 2A=2, B = 3B=3, C = 9C=9, and D = 4D=4.
+* A = 3A=3, B = 2B=2, C = 4C=4, and D = 9D=9.
+* ***None of the above.***
+
+### Question 3: Following from the previous problem. Use the simplex method to solve the linear program. After a few iterations, we obtain an optimal tableau:
+0 | 2 | A | 0 | 0 | 80
+--|---|---|---|---|---
+1 | 1 | 1 | 0 | 0 | 16
+0 | B | -1| 1 | 0 | 4
+0 | 1 | 0 | 0 | 1 | C
+#### where A, B, and C are missing. Please write down these missing values in the order of A, B, and C by separating two consecutive values with a comma. Do not have any symbol other than numeric values, negation, and comma in your answer.
+
+***Answer:***
+```
+5,3,8
+```
+
+### Question 4: Following from the previous problem, what is an optimal solution to the original LP?
+
+* (x1,x2)=(8,8).
+* ***(x1, x2) = (16, 0).***
+* The original LP is infeasible.
+* The original LP is unbounded.
+* None of the above.
+
+### Question 5: Consider the following LP:
+```
+max x1 + 2*x2
+x1 + x2 <= 16
+x1 + 4*x2 <= 20
+x2 <= 8
+x1 >= 0, x2 >= 0
+```
+#### Use the simplex method with the two-phase implementation to solve the LP. Write down your conclusion. If you find an optimal solution, write it down in the order of x1 and x2 by separating two consecutive values with a comma. Do not have any symbol other than numeric values, negation, and comma in your answer. For example, if you believe an optimal solution is (0, 0), write down "0,0". If you conclude that the problem is infeasible or unbounded, write down a single character "I" or "U", respectively.
+
+***Answer:***
+```
+8,8
+```
