@@ -1,12 +1,12 @@
 # Operations-Research-2-Optimization-Algorithms--Quiz-Answers
 ## Coursera quiz answers
 
-* [Quiz for Week 1 (100%)](https://github.com/CherpakAndrii/Operations-Research-2-Optimization-Algorithms--Quiz-Answers/edit/main/README.md#week-1)
-* [Quiz for Week 2 (not ready)](https://github.com/CherpakAndrii/Operations-Research-2-Optimization-Algorithms--Quiz-Answers/edit/main/README.md#week-2)
-* [Quiz for Week 3 (not ready)](https://github.com/CherpakAndrii/Operations-Research-2-Optimization-Algorithms--Quiz-Answers/edit/main/README.md#week-3)
-* [Quiz for Week 4 (not ready)](https://github.com/CherpakAndrii/Operations-Research-2-Optimization-Algorithms--Quiz-Answers/edit/main/README.md#week-4)
-* [Quiz for Week 5 (not ready)](https://github.com/CherpakAndrii/Operations-Research-2-Optimization-Algorithms--Quiz-Answers/edit/main/README.md#week-5)
-* [Quiz for Week 6 (not ready)](https://github.com/CherpakAndrii/Operations-Research-2-Optimization-Algorithms--Quiz-Answers/edit/main/README.md#week-6)
+* [Quiz for Week 1 (100%)](https://github.com/CherpakAndrii/Operations-Research-2-Optimization-Algorithms--Quiz-Answers#week-1)
+* [Quiz for Week 2 (100%)](https://github.com/CherpakAndrii/Operations-Research-2-Optimization-Algorithms--Quiz-Answers#week-2)
+* [Quiz for Week 3 (not ready)](https://github.com/CherpakAndrii/Operations-Research-2-Optimization-Algorithms--Quiz-Answers#week-3)
+* [Quiz for Week 4 (not ready)](https://github.com/CherpakAndrii/Operations-Research-2-Optimization-Algorithms--Quiz-Answers#week-4)
+* [Quiz for Week 5 (not ready)](https://github.com/CherpakAndrii/Operations-Research-2-Optimization-Algorithms--Quiz-Answers#week-5)
+* [Quiz for Week 6 (not ready)](https://github.com/CherpakAndrii/Operations-Research-2-Optimization-Algorithms--Quiz-Answers#week-6)
 
 # Week 1
 
